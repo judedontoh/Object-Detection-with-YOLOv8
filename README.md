@@ -43,3 +43,5 @@ The YOLOv8 model was chosen for its high accuracy and speed. After training, it 
 
 ### Model Application
 Instead of just images, the model can also be applied to videos. This allows real-time object detection in video streams, demonstrating the model's capabilities in dynamic environments as seen below.
+
+![Object Detection Video](detection-video-to-gif-converter.gif)
