@@ -4,6 +4,9 @@
 
 Created a tool that uses the YOLOv8 model for detecting, segmenting, and classifying objects in urban scenes. The model can accurately find and identify various objects such as people, buses, backpacks, and traffic lights. This project shows how YOLOv8 can work in real-time to detect objects.
 
+### Motivation
+This project aims to explore how well YOLOv8 can detect objects and its uses in real-world scenarios like autonomous driving and urban surveillance. Accurate and fast object detection can significantly enhance applications that need quick and reliable identification of objects.
+
 ### Key Features:
 - **Object Detection**: Finds and marks objects within images.
 - **Image Segmentation**: Separates objects from the background.
@@ -27,14 +30,13 @@ The YOLOv8 model was trained on a dataset of urban scenes. This ensures it can q
 Required Libraries:
 Import all necessary libraries to get started with the implementation.
 
-### Motivation
-This project aims to explore how well YOLOv8 can detect objects and its uses in real-world scenarios like autonomous driving and urban surveillance. Accurate and fast object detection can significantly enhance applications that need quick and reliable identification of objects.
 
 ### Code and Resources Used
-Python Version: 3.7
-Packages: pandas, numpy, sklearn, opencv-python, torch, yolov8
-Requirements: Install the necessary packages using pip install -r requirements.txt
-Data Collection
+- **Python Version**: 3.7
+  **Packages**: pandas, numpy, sklearn, opencv-python, torch, yolov8
+-**Requirements**: Install the necessary packages using pip install -r requirements.txt
+  
+### Data Collection
 Data was collected from an urban scene dataset, focusing on various objects typically found in city environments. Key attributes extracted include object types, bounding box coordinates, and image data.
 
 
