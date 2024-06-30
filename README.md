@@ -1,4 +1,4 @@
-# YOLOv8 Object Detection, Image Segmentation, and Classification
+# 🔍📷📦 YOLOv8 Object Detection, Image Segmentation, and Classification
 
 ## Project Overview
 
